@@ -1,0 +1,17 @@
+=====================================
+     GRADE SUMMARY REPORT
+=====================================
+Course: CS244 - Advanced Programming
+Total Students: 5
+Class Average: 66.58
+Top Student: Student{S004, Fatma Ali, avg=91.67}
+Statistics: Highest: 91.67 | Lowest: 42.50 | Average: 66.58 | StdDev: 17.29
+
+Grade Distribution:
+A: * (1)
+B:  (0)
+C: * (1)
+D: * (1)
+F: ** (2)
+
+Report generated successfully.
