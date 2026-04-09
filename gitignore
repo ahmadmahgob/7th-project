@@ -1,0 +1,19 @@
+# NetBeans files
+nbproject/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Reports folder (generated at runtime)
+reports/
+
+# Temporary files
+.DS_Store
+Thumbs.db
